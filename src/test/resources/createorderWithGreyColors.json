@@ -1,0 +1,11 @@
+{
+  "firstName":"Anton",
+  "lastName":"Chekhov",
+  "address":"Petrogradsky pr. 18",
+  "metroStation": "Petrogradskaya",
+  "phone": "81234567890",
+  "rentTime": 2,
+  "deliveryDate" : "22-12-2022",
+  "comment": "no",
+  "color": ["GREY"]
+}
