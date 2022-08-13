@@ -5,7 +5,6 @@ public class SuccessCourierCreationResp {
     public boolean isOk() {
         return ok;
     }
-
     public void setOk(boolean ok) {
         this.ok = ok;
     }

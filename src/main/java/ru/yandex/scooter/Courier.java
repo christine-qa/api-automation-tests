@@ -20,7 +20,6 @@ public class Courier {
         this.password = password;
     }
 
-
     public Courier() {
     }
 
